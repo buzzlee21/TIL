@@ -16,3 +16,5 @@ terminal open > ctrl + `
 - `..`: 한칸 위 폴더 
 
 
+
+

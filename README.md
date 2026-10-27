@@ -4,6 +4,7 @@
 
 ## Git
 - [2026-10-13 git 기초](git/2026-10-13-git-basics.md)
+- [2026-10-27 푸시 전 보안 체크리스트](git/2026-10-27-push-security-checklist.md)
 
 ## Linux
 - [2026-10-13 터미널 기초](linux/2026-10-13-terminal-basics.md)

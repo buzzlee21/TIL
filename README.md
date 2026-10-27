@@ -13,4 +13,4 @@
 - [2026-10-13 마크다운 문법](markdown/2026-10-13-markdown-syntax.md)
 
 ## Python
-- (준비 중)
+- [2026-10-27 단축평가](python/2026-10-27-short-circuit-evaluation.md)

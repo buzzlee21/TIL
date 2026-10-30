@@ -14,3 +14,6 @@
 
 ## Python
 - [2026-10-27 단축평가](python/2026-10-27-short-circuit-evaluation.md)
+
+## Database
+- [2026-10-31 PostgreSQL DB 삭제 후 다시 만들기](database/2026-10-31-postgresql-db-reset.md)
